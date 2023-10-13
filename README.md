@@ -10,7 +10,7 @@ A quick start project that shows how to create SmartArt in PowerPoint presentati
 ## Resources
 
 - **Product page:** [Syncfusion PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net?utm_source=github&utm_medium=listing&utm_campaign=github-syncfusionexamples)
-- **Documentation:** [Create SmartArts in Presentation using Syncfusion PowerPoint library](https://help.syncfusion.com/file-formats/presentation/smartart?utm_source=github&utm_medium=listing&utm_campaign=github-syncfusionexamples)
+- **Documentation:** [SmartArts in Presentation using Syncfusion PowerPoint library](https://help.syncfusion.com/file-formats/presentation/smartart?utm_source=github&utm_medium=listing&utm_campaign=github-syncfusionexamples)
 - **GitHub Examples:** [Syncfusion PowerPoint library examples](https://github.com/SyncfusionExamples/PowerPoint-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-syncfusionexamples)
 - **Online demo:** [Syncfusion PowerPoint library - Online demos](https://ej2.syncfusion.com/aspnetcore/PowerPoint/Default#/material3?utm_source=github&utm_medium=listing&utm_campaign=github-syncfusionexamples)
 
@@ -20,6 +20,7 @@ A quick start project that shows how to create SmartArt in PowerPoint presentati
 - Microsoft PowerPoint 2013
 - Microsoft PowerPoint 2016
 - Microsoft PowerPoint 2019
+- Microsoft 365
 
 ## Supported File Formats
 - Creates, reads, and edits popular presentation file formats like .PPTX, .PPTM, .POTX, and .POTM.
